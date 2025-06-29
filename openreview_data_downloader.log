@@ -1,0 +1,4 @@
+2025-06-29 00:22:30,466 - INFO - Fetching data for venue: NeurIPS.cc/2024/Conference (Attempt 1/5)
+2025-06-29 00:22:34,471 - INFO - Saved 4236 submissions to /mnt/data/sara-salamat/generative-topic-evolution/data/raw/neurips2024/neurips2024_notes_with_decisions.json
+2025-06-29 00:22:34,471 - INFO - Fetching data for venue: NeurIPS.cc/2023/Conference (Attempt 1/5)
+2025-06-29 00:22:38,170 - INFO - Saved 3395 submissions to /mnt/data/sara-salamat/generative-topic-evolution/data/raw/neurips2023/neurips2023_notes_with_decisions.json

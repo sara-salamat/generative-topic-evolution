@@ -1,3 +1,4 @@
 slurmoutput/
 slurmbash/
 data/processed/embedded_records.json
+.env

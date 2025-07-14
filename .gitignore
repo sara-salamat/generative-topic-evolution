@@ -3,3 +3,4 @@ slurmbash/
 data/processed/embedded_records.json
 .env
 summarizer_progress.json
+scripts/summarizer_progress_fast.json
